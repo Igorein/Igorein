@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samet Kargali</h1>
 <h3 align="center">A passionate Jr frontend developer from Turkey</h3>
+<h4>I'm currently learning React JS</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
